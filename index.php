@@ -13,7 +13,13 @@ $people = [
                  "Weight" => 59,
                  "Length" => 167,
                 ],
+    "Vasia" => ["Age" => 89,
+                 "Weight" => 92,
+                 "Length" => 172,
+                ],
 ];
+
+print_r('some text')
 
 // echo "<pre>";
 // print_r($people["Ivan"]["Weight"]);
