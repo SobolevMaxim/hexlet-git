@@ -19,7 +19,9 @@ $people = [
                 ],
 ];
 
-print_r('some text')
+print_r('some text');
+
+print_r('some text');
 
 // echo "<pre>";
 // print_r($people["Ivan"]["Weight"]);
